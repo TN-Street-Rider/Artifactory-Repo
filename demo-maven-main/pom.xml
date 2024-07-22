@@ -27,8 +27,8 @@
   <distributionManagement>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>maven-libs-snapshot-local</name>
-        <url>http://support-team-sivaprakash-artifactory.jfrog.farm:8081/artifactory/maven-libs-snapshot-local</url>
+        <name>mvn-libs-snapshot</name>
+        <url>http://support-team-sivaprakash-artifactory.jfrog.farm:8081/artifactory/mvn-libs-snapshot</url>
     </snapshotRepository>
   </distributionManagement>
   <build>
