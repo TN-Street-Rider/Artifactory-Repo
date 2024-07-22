@@ -17,6 +17,18 @@
     <maven.compiler.source>11</maven.compiler.source>
     <maven.compiler.target>11</maven.compiler.target>
   </properties> -->
+  <!-- <distributionManagement>
+    <repository>
+        <id>central</id>
+        <name>sivaprakash-artifactory-releases</name>
+        <url>http://support-team-sivaprakash-artifactory.jfrog.farm:8081/artifactory/mvn-libs-release-local</url>
+    </repository>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>sivaprakash-artifactory-snapshots</name>
+        <url>http://support-team-sivaprakash-artifactory.jfrog.farm:8081/artifactory/mvn-libs-release-local</url>
+    </snapshotRepository>
+</distributionManagement> -->
   <distributionManagement>
     <repository>
         <id>central</id>
