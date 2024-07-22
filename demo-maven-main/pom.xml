@@ -21,12 +21,12 @@
     <repository>
         <id>central</id>
         <name>sivaprakash-artifactory-releases</name>
-        <url>http://support-team-sivaprakash-artifactory.jfrog.farm:8081/artifactory/mvn-libs-release</url>
+        <url>http://support-team-sivaprakash-artifactory.jfrog.farm:8081/artifactory/mvn-libs-release-local</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
         <name>sivaprakash-artifactory-snapshots</name>
-        <url>http://support-team-sivaprakash-artifactory.jfrog.farm:8081/artifactory/mvn-libs-release</url>
+        <url>http://support-team-sivaprakash-artifactory.jfrog.farm:8081/artifactory/mvn-libs-release-local</url>
     </snapshotRepository>
 </distributionManagement>
 <dependencies>
