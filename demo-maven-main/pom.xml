@@ -3,10 +3,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.jfrog</groupId>
-  <artifactId>my-jfrog-app</artifactId>
+  <artifactId>shiv-test-repo</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>my-jfrog-app</name>
+  <name>maven-sample-project</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -27,8 +27,8 @@
   <distributionManagement>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>vigneshb-art-snapshots</name>
-        <url>http://support-team-vigneshb-art.jfrog.farm:8081/artifactory/sample-repo-libs-snapshot</url>
+        <name>maven-libs-snapshot-local</name>
+        <url>http://support-team-sivaprakash-artifactory.jfrog.farm:8081/artifactory/maven-libs-snapshot-local</url>
     </snapshotRepository>
   </distributionManagement>
   <build>
