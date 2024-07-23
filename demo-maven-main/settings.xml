@@ -31,13 +31,13 @@
           </snapshots>
           <id>central</id>
           <name>mvn-libs-release</name>
-          <url>http://support-team-sivaprakash-artifactory.jfrog.farm:8081/artifactory/mvn-libs-release</url>
+          <url>http://support-team-sivaprakash-artifactory.jfrog.farm:8081/artifactory/maven-libs-release-local</url>
         </repository>
         <repository>
           <snapshots />
           <id>snapshots</id>
           <name>mvn-libs-snapshot</name>
-          <url>http://support-team-sivaprakash-artifactory.jfrog.farm:8081/artifactory/mvn-libs-snapshot</url>
+          <url>http://support-team-sivaprakash-artifactory.jfrog.farm:8081/artifactory/maven-libs-snapshot-local</url>
         </repository>
       </repositories>
       <pluginRepositories>
@@ -47,13 +47,13 @@
           </snapshots>
           <id>central</id>
           <name>mvn-libs-release</name>
-          <url>http://support-team-sivaprakash-artifactory.jfrog.farm:8081/artifactory/mvn-libs-release</url>
+          <url>http://support-team-sivaprakash-artifactory.jfrog.farm:8081/artifactory/maven-libs-release-local</url>
         </pluginRepository>
         <pluginRepository>
           <snapshots />
           <id>snapshots</id>
           <name>mvn-libs-snapshot</name>
-          <url>http://support-team-sivaprakash-artifactory.jfrog.farm:8081/artifactory/mvn-libs-snapshot</url>
+          <url>http://support-team-sivaprakash-artifactory.jfrog.farm:8081/artifactory/maven-libs-snapshot-local</url>
         </pluginRepository>
       </pluginRepositories>
       <id>artifactory</id>
